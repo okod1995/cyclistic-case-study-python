@@ -1,0 +1,51 @@
+# تجاهل ملف البيانات الكبير
+data/cyclistic_cleaned_2024.csv
+
+# مجلدات البيئة الافتراضية
+venv/
+.venv/
+env/
+ENV/
+
+# ملفات الكاش الخاصة ببايثون
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ملفات Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ملفات بيئة التطوير
+.idea/
+.vscode/
+
+# ملفات نظام التشغيل
+.DS_Store
+Thumbs.db
+
+# ملفات سجل/لوج
+*.log
+
+# ملفات مؤقتة
+*.tmp
+*.swp
+
+# ملفات Python egg
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# إعدادات virtualenv أو pipenv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# إعدادات mypy
+.mypy_cache/
+
+# إعدادات Pytest
+.cache/
+"data/cyclistic_cleaned_2024.csv" 
+"data/cyclistic_cleaned_2024.csv" 
+"data/cyclistic_cleaned_2024.csv" 
